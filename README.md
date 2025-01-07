@@ -30,7 +30,12 @@ Analyze sales data to uncover trends, insights, and actionable information.
 4. **Top Products**: Identify best-performing products by revenue.
 
 ### Outcome:
-A polished, professional dashboard that you can showcase to potential employers or clients.
+View the Project Documentation
+
+You can view the detailed project documentation by accessing the PDF file:
+
+[📄 View Sales Analytics Dashboard Documentation](https://github.com/gmsv07/powerbi-ecommerce-dashboard/blob/main/ecommerce-dashboard.pdf)
+
 
 ---
 
